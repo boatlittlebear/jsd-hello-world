@@ -654,7 +654,7 @@ body {
   background-image: url("../images/participant-photo.png");
 }
 #participant-40 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "Tarm(ธาม)";
 }
 #participant-40 .participant-quote::before {
   /* content: "Your inspirational quote here." */
