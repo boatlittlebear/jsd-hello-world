@@ -133,10 +133,10 @@ body {
   background-color: white;
 }
 #participant-3 .profile-photo {
-  background-image: url("../images/participant-photo.png");
+  background-image: url("/images/Frame\ 4.png");
 }
 #participant-3 .participant-name::before {
-  /* content: "Your Name Here"; */
+  content: "03_Chalisa (Mae)";
 }
 #participant-3 .participant-quote::before {
   /* content: "Your inspirational quote here." */
